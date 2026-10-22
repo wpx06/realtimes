@@ -25,9 +25,9 @@ fi
 echo "✅ Git repository is clean"
 
 # Repository information
-REPO_NAME="realtimes"
+REPO_NAME="cpa-lead-dashboard-vercel"
 REPO_DESCRIPTION="CPA Lead Dashboard with Vercel-compatible real-time features using Server-Sent Events (SSE)"
-GITHUB_USER="wpx06"
+GITHUB_USER="robingladys"
 
 echo "📦 Repository Information:"
 echo "   Name: $REPO_NAME"
